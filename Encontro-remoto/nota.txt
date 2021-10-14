@@ -1,0 +1,7 @@
+saber o numero total de alunos
+
+percorrer de 0 até o numero total de alunos
+
+se o numero for 0, escrever "ZERO" na tela
+se o numero for impar, escrever "ÍMPAR" e o número
+Se o numero for par, escrever "PAR" e o número
