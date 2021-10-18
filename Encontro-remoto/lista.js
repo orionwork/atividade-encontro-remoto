@@ -1,5 +1,5 @@
 let numeroAlunos = 5;
-let listaDeAlunos = ["ismael", "Orion", "Thiago", "Ordilei", "Marina"];
+let listaDeAlunos = ["ismael", "Orion", "Thiago", "Ordilei", "Marina", "Ellen", "Kauã"];
 
 // for(let i=0; i < listaDeAlunos.length; i++){
 //     //console.log(i);
